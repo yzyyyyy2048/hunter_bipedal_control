@@ -63,7 +63,24 @@ Y
 
 The following is a schematic diagram of the handle operation:
 
+
+
 ![](./docs/f710-gallery-1.png)
+
+正确顺序：
+
+1.启动控制器
+```
+左肩键+start
+```
+2.切换行走模式
+```
+右肩键
+```
+3.行走
+```
+按住左肩键+摇杆
+```
 
 ## Simulation Without Gamepad
 
